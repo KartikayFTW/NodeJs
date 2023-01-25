@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package.json learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikayFTW/NodeJs.git"
+  },
+  "author": "Kartikay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KartikayFTW/NodeJs/issues"
+  },
+  "homepage": "https://github.com/KartikayFTW/NodeJs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
